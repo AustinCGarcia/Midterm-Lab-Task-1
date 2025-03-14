@@ -21,7 +21,7 @@ Step 3: The screenshot of the output before starting data cleaning
 ![raw](https://github.com/user-attachments/assets/e0375d56-cc93-4908-9492-90f4aa3642d7)
 
 Step 4: The screenshot of the output after the data cleaning
-![Image](https://github.com/user-attachments/assets/0c3c814d-95d9-42ab-bc8f-c20d9cbe5477)
+![Image](https://github.com/user-attachments/assets/bd642377-e7d2-457c-befa-a6c3510c6aa3)
 
 ## The Physical Model of the Database
-![Image](https://github.com/user-attachments/assets/0080b591-fb19-4fe3-8f2d-98f5f727c949)
+![Image](https://github.com/user-attachments/assets/94fe6a57-eb64-408e-b05b-6a5b0dd3a396)
