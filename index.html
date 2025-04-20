@@ -25,16 +25,19 @@
       line-height: 1.6;
     }
 
-    header {
-      background: #0a0a0a;
-      padding: 20px 40px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      box-shadow: 0 0 10px white;
-      position: relative;
-      z-index: 2;
-    }
+header {
+  background: #0a0a0a;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 0 10px white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999; /* Make sure it's on top of everything */
+   }
 
     /* Animation for the title text */
     @keyframes color-change {
@@ -67,10 +70,10 @@
     }
 
     section {
-      padding: 40px 20px;
+      padding: 100px 20px 40px; /* Increased top padding */
       max-width: 1200px;
       margin: auto;
-    }
+}
 
     h2.section-title {
       font-size: 2rem;
